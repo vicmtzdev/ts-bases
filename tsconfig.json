@@ -108,5 +108,8 @@
   },
   "exclude": [
     "node_module"
-  ]
+  ],
+  "include": [
+    "ES6"
+  ],
 }
